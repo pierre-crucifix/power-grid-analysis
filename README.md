@@ -1,7 +1,7 @@
 # power-grid-analysis
 Simulation and analysis of a typical European electricity distribution network with variations in EV adoption and PV penetration rate with the aim to answer the following question:
 
-#### What is the expected cost to upgrade the electricity distribution network to make it viable in the context of an increasing electrification of our way of life as well as to support the growing decentralized renewable production?
+### What is the expected cost to upgrade the electricity distribution network to make it viable in the context of an increasing electrification of our way of life as well as to support the growing decentralized renewable production?
 
 **Authors:** 
 Pierre Crucifix & Arnaud Debray, within a global project carried out by Pierre Crucifix (Mathematical Engineer), Arnaud Debray (Energy Engineer) and Sophie Delcorte (Business Developer)
